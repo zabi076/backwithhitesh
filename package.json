@@ -1,0 +1,22 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to depoly",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "author": "zohaib ISmail",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
